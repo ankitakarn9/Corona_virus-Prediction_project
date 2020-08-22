@@ -29,3 +29,18 @@ The first COVID-19 case was reported on 30th January 2020 when a student arrived
 <li>Situational awareness and critical response analysis</li>
 </ul>
 
+## Points covered in this project - 
+<ul>
+  <li>Research about the recent cases of COVID-19 in India and Iran</li>
+  <li>Find the total number of COVID-19 cases in India till date</li>
+  <li>Which stateis the most recent with COVID-19 case?</li>
+  <li>What is the total number of active COVID-19 cases in India?</li>
+  <li>Creating <b>multiple visualization</b> and compare the spread of COVID-19 in India with Iran</li>
+  <li>Using <b>Prophet</b> to forecast the data for next 10 days with 97% confidence interval</li>
+  <li>Inferences after plotting the visualization.</li>
+</ul>
+
+
+
+
+
