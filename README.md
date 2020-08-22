@@ -22,7 +22,10 @@ The first COVID-19 case was reported on 30th January 2020 when a student arrived
 
 
 ## How is AI-ML useful in fighting the COVID-19 pandemic?
-<li>Medical resource optimization</li>
-Ensuring demand planning stability
-Contact tracing
-Situational awareness and critical response analysis
+<ul>
+<li> Medical resource optimization</li>
+<li> Ensuring demand planning stability</li>
+<li>Contact tracing</li>
+<li>Situational awareness and critical response analysis</li>
+</ul>
+
