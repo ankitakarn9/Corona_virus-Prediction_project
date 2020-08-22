@@ -1,4 +1,4 @@
-# Corona_virus-Prediction_project
+# Corona Virus Predicting the Trends project
 
 ## COVID-19 - One of the greatest Pandemic of all times !
 
@@ -22,7 +22,7 @@ The first COVID-19 case was reported on 30th January 2020 when a student arrived
 
 
 ## How is AI-ML useful in fighting the COVID-19 pandemic?
-Medical resource optimization
+<li>Medical resource optimization</li>
 Ensuring demand planning stability
 Contact tracing
 Situational awareness and critical response analysis
